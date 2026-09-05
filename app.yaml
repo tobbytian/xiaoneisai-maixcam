@@ -1,0 +1,10 @@
+id: pnx_newtemplate_01
+name: 校内赛识别
+version: 1.0.0
+author: tianhaoming
+icon: app.png
+desc: 校内赛识别
+files:
+  - avc1_protocol.py
+  - main.py
+  - test_avc1_pack.py
