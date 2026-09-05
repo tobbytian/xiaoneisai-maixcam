@@ -1,3 +1,5 @@
+调试指南参见https://github.com/tobbytian/xiaoneisai-maixcam/edit/main/TUNING.md
+
 # 校内赛 · MaixCAM 装甲板视觉（AVC1）
 
 MaixCAM 端识别白色装甲板模板，计算车体平移速度，经 UART 向 DJI C 板发送 **AVC1** 帧。  
@@ -92,8 +94,6 @@ python avc1_protocol.py
 # 或
 python test_avc1_pack.py
 ```
-
-应对齐接口文档三组黄金向量。
 
 ## 参考
 
